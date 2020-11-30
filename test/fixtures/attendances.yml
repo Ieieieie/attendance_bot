@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  worknumber: MyString
+  user_id: MyString
+  workdate: 2020-11-26
+  begintime: 2020-11-26
+  finishtime: 2020-11-26
+
+two:
+  worknumber: MyString
+  user_id: MyString
+  workdate: 2020-11-26
+  begintime: 2020-11-26
+  finishtime: 2020-11-26
